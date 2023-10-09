@@ -11,9 +11,6 @@ Stay informed about the time left for your current event, even when browsing oth
 **Toggle Notifications:** 
 Easily switch between active and inactive modes.
 
-**Simple & Effective:** 
-Designed for seamless integration with SAGE LABS, ensuring a hassle-free user experience.
-
 ## Installation
 - Clone or download this repository to your local machine.
 - Open Chrome and navigate to chrome://extensions/.
