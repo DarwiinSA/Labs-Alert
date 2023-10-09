@@ -31,7 +31,7 @@ Potential Areas for Contribution:
 - Timer Accuracy: Implement a more accurate timer system to prevent drift over extended periods.
 - Persistent Storage: Enhance the system to store timers in a more persistent storage to handle scenarios where the background script might be unloaded by Chrome.
 - UI/UX Improvements: Enhance the popup UI for better user experience.
-- Additional Features: Introduce features like custom notification sounds, vibration alerts for mobile browsers, etc.
+- Additional Features: Introduce features like custom notification sounds, options Page, manual timer set, etc...
 - Code Optimization: Refactor and optimize the codebase for better performance and maintainability.
 - Testing: Implement unit tests and integration tests to ensure the reliability of the extension.
 
