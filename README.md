@@ -27,7 +27,7 @@ Easily switch between active and inactive modes.
 This extension is still under development. If you'd like to contribute or suggest improvements, please feel free to open an issue or submit a pull request.
 
 ## Acknowledgements
-Special thanks to [Swift42]([url](https://github.com/Swift42)). The core content of this extension was inspired by their [repository]([url](https://github.com/Swift42/sa_notif)).
+Special thanks to [Swift42]([url](https://github.com/Swift42)). The core content of this extension was inspired by their repo: https://github.com/Swift42/sa_notif
 
 ## License
 This project is licensed under the GNU General Public License (GPL). See the [LICENSE]([url](https://github.com/DarwiinSA/sage-labs-alert/blob/main/LICENSE)https://github.com/DarwiinSA/sage-labs-alert/blob/main/LICENSE) file for details
