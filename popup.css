@@ -1,0 +1,67 @@
+body {
+    width: 200px;
+    margin: 0;
+    background-color: #28242c;
+    color: #fff;
+    font-family: Industry, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h4 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #efad45;
+}
+
+p {
+    font-size: 0.9rem;
+}
+
+button {
+    margin: 10px 10px;
+    font-size: 0.8rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    flex: 1;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#timersContainer p {
+    font-size: 0.8rem;
+}
+
+#buttonContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 0 10px;
+    margin-bottom: 20px;
+}
+
+#notification {
+    font-weight: bold;
+}
+
+#notification[data-status="Active"] {
+    color: green;
+}
+
+#notification[data-status="Inactive"] {
+    color: red;
+}
