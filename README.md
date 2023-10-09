@@ -26,6 +26,7 @@ Easily switch between active and inactive modes.
 
 ### Contributing
 This extension is still under development. If you'd like to contribute or suggest improvements, please feel free to open an issue or submit a pull request.
+
 Potential Areas for Contribution:
 - Timer Accuracy: Implement a more accurate timer system to prevent drift over extended periods.
 - Persistent Storage: Enhance the system to store timers in a more persistent storage to handle scenarios where the background script might be unloaded by Chrome.
