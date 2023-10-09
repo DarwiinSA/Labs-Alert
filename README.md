@@ -30,4 +30,4 @@ This extension is still under development. If you'd like to contribute or sugges
 Special thanks to [Swift42]([url](https://github.com/Swift42)). The core content of this extension was inspired by their [repository]([url](https://github.com/Swift42/sa_notif)).
 
 ## License
-This project is licensed under the GNU General Public License (GPL). See the LICENSE file for details
+This project is licensed under the GNU General Public License (GPL). See the [LICENSE]([url](https://github.com/DarwiinSA/sage-labs-alert/blob/main/LICENSE)https://github.com/DarwiinSA/sage-labs-alert/blob/main/LICENSE) file for details
