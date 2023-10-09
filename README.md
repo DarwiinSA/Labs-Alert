@@ -1,4 +1,4 @@
-# **SAGE LABS Notifier**
+# **SAGE LABS Alerts**
 A Chrome extension designed to provide timely audio and visual notifications for mining and crafting events within the SAGE LABS platform.
 
 ## **Features**
