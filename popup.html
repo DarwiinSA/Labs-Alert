@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SAGE Alerts</title>
+    <title>LABS ALERT</title>
     <link rel="stylesheet" type="text/css" href="popup.css">
 </head>
 <body>
-    <h4>SAGE LABS Alerts</h4>
+    <h4>LABS ALERT</h4>
     <p><span id="notification">Inactive</span></p>
     <div id="buttonContainer">
-         <button id="activate">Turn On</button>
-         <button id="deactivate">Turn Off</button>
+        <div id="toggleButtons">
+            <button class="action-button" id="activate">Turn On</button>
+            <button class="action-button" id="deactivate">Turn Off</button>
+        </div>
+        <button class="reset-button" id="resetTimers">Reset Timers</button>
     </div>
     <div id="timersContainer"></div>
     <script src="popup.js"></script>
