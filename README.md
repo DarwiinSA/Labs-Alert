@@ -1,4 +1,4 @@
-# **SAGE LABS Alerts**
+# **LABS Alerts**
 
 ### **Features**
 **Timely Alerts:** 
