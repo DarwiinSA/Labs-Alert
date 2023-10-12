@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "SAGE LABS Alert",
-  "version": "0.0.0.1",
+  "name": "LABS Alert",
+  "version": "1.0.0",
   "description": "Get alerts for SAGE LABS activities.",
   "permissions": [
     "activeTab",
