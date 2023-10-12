@@ -2,12 +2,17 @@
 
 ### **Features**
 **Timely Alerts:** 
-- **Audio and Visual Notifications:** Receive alerts for every mining or crafting event on the SAGE LABS platform
-- **In-Browser Timer:** Monitor the time left for your current event without needing to stay on the SAGE LABS tab
-- **Toggle Notifications:** Easily switch between active and inactive modes directly from the extension popup
+- **Audio and Visual Notifications:**
+  Receive alerts for every mining or crafting event on the SAGE LABS platform
+- **In-Browser Timer:**
+  Monitor the time left for your current event without needing to stay on the SAGE LABS tab
+- **Toggle Notifications:**
+  Easily switch between active and inactive modes directly from the extension popup
 *Note: For mining alerts, the extension works specifically from the "MINING OPS" section under "MANAGE FLEET" on the SAGE LABS platform*
-- **Reset Timers:** Quickly reset all active timers with a single click
-- **Status Indicator:** The extension badge shows whether the alerts are active or inactive
+- **Reset Timers:**
+  Quickly reset all active timers with a single click
+- **Status Indicator:**
+  The extension badge shows whether the alerts are active or inactive
 
 ### Installation
 - Download or clone this repository
