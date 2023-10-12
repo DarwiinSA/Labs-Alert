@@ -9,6 +9,9 @@
     "scripting",
     "storage"
   ],
+  "host_permissions": [
+    "https://labs.staratlas.com/*"
+  ],
   "background": {
     "service_worker": "background-worker.js"
   },
